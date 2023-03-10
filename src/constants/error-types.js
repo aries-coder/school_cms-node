@@ -1,0 +1,15 @@
+const ACCOUNT_OR_PASSWORD_IS_REQUEIRED = "ACCOUNT_or_password_is_requeired"
+const ACCOUNT_IS_NOT_EXISTS = "ACCOUNT_is_not_exists"
+const ACCOUNT_PASSWORD_IS_ERROR = "ACCOUNT_password_is_error"
+const UNAUTHORIZATION = "unauthorization"
+const PARAMS_IS_NOT_DEFINED = "params_is_not_defined"
+const NO_OPERATION_PERMISSION = "no_operation_permission"
+
+module.exports = {
+  ACCOUNT_IS_NOT_EXISTS,
+  ACCOUNT_OR_PASSWORD_IS_REQUEIRED,
+  ACCOUNT_PASSWORD_IS_ERROR,
+  UNAUTHORIZATION,
+  PARAMS_IS_NOT_DEFINED,
+  NO_OPERATION_PERMISSION
+}
